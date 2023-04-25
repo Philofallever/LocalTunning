@@ -1,0 +1,1 @@
+xcopy /S /Y "LocalTuning" "D:/Game/Steam/steamapps/common/Don't Starve Together/mods/LocalTuning"

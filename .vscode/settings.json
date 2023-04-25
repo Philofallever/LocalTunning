@@ -1,0 +1,12 @@
+{
+    "Lua.runtime.version": "Lua 5.1",
+    "lua.debug.settings.luaVersion": "5.1",
+    "Lua.runtime.pathStrict": true,
+    "Lua.diagnostics.enable": false,
+    "Lua.runtime.path": [
+        "?.lua",
+        "?/init.lua",
+        "DST-Source/?.lua"
+    ],
+    "Lua.workspace.ignoreSubmodules": false,
+}

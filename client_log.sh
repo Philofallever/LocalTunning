@@ -1,0 +1,1 @@
+tail -f 'C:/Users/青木离/Documents/Klei/DoNotStarveTogether/client_log.txt'
